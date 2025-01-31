@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": 1001,
+        "title": "Mountain Limitless",
+        "price": "29.69",
+        "description": "DROP 001",
+        "category": "T-shirt",
+        "image":[
+            "https://github.com/Greyby9/imagenes/blob/main/hombre-modelo.png?raw=true"
+        ] ,
+        "rating": {
+            "rate":3.0,
+            "count": 100 
+        }
+    }
+
+
+
+
+]
